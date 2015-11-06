@@ -5,3 +5,8 @@ the _only people **who knows** about the lncode_
 *[Nelsonsp!](http://nelsonsp.com)*
 >am learning to teach myself  
 >your student is my teacher
+   fanction fancyAlert(arg){  
+      if(arg){  
+         $. facebox({div:'#foo'})  
+      }   
+    }  
